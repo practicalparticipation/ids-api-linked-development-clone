@@ -6,3 +6,5 @@ You will also need Graphite and ARC which can be installed by running the below 
 
 curl -s http://graphite.ecs.soton.ac.uk/download.php/Graphite_and_ARC2.tgz | tar xzvf -
 
+
+See http://linked-development.org/ for more details on the data available. 
